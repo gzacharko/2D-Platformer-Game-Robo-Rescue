@@ -5,7 +5,7 @@ Repository for the STEM-based 2D platformer game, titled "Robo Rescue", that was
 ### How to Download and Play:
 - Click the green button that says "Code" and then click "Download ZIP".
 - Go into your computer's file explorer/manager.
-- Unzip the "Robo_Rescue.zip" folder.
+- Unzip the zip folder.
 - Go into the "Robo Rescue" folders.
 - Double-click on the "SeniorProject.exe" executable file.
 - Play!
